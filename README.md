@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Python <br>
+🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **edwrdrvera/edwrdrvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
