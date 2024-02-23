@@ -1,5 +1,5 @@
 ### Hi there, I'm Edward! 👋
-I am an aspiring full stack developer! 😄
+I am an aspiring software developer! 😄
 
 -🌱 I’m currently learning **Python**.
 <!--
