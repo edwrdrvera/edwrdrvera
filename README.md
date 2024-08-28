@@ -1,7 +1,9 @@
 ### Hi there, I'm Edward! 👋
 I am an aspiring software developer! 😄
 
--🌱 I’m currently learning **Python**.
+-🌱 I’m currently learning:
+**Python**
+**HTML, CSS, JavaScript**
 <!--
 **edwrdrvera/edwrdrvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
