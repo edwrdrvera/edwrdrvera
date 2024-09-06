@@ -2,8 +2,7 @@
 I am an aspiring software developer! 😄
 
 -🌱 I’m currently learning:
-**Python**
-**HTML, CSS, JavaScript**
+**Python, HTML, CSS, and JavaScript**
 <!--
 **edwrdrvera/edwrdrvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
