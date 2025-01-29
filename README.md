@@ -1,7 +1,8 @@
 ### Hi there, I'm Edward! 👋
 I am an aspiring software developer currently studying Application Development and Delivery at Red River College Polytechnic!
+Current Term: 3 out of 5
 
-🌱 I’m currently learning: **Python, HTML, CSS, and JavaScript**
+🌱 I’m currently building my skills on: **TypeScript, Express.js, Node.js**
 
 
 ### 💻 Tech Stack:
