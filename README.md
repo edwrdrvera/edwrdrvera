@@ -1,5 +1,5 @@
 ### Hi there, I'm Edward! 👋
-I am an aspiring software developer currently studying Application Development and Delivery at Red River College Polytechnic!
+I am a software developer currently studying Application Development and Delivery at Red River College Polytechnic!
 
 Current Term: 4 out of 5
 
