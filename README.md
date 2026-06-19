@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Edward! 🌱
 
-- 🎓 Term 5 Student @ RRC Polytech
-- 💼 Software Developer Intern @ WCLC
+- 🎓 RRC Polytech Honours Graduate
 
 ---
 
